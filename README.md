@@ -67,11 +67,7 @@ I'm a passionate Data Scientist and Machine Learning Expert specializing in Gene
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2410&show_icons=true&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ahmad2410&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2410&show_icons=true&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />  
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2410&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
 </div>
