@@ -1,35 +1,97 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Data Scientist | Machine Learning Expert | Passionate About Generative AI and Cutting-Edge Technologies</h3>
+# <div align="center">👨‍💻 Muhammad Ahmad</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad2410&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad2410" /> </p>
+<div align="center">
+<b>Data Scientist | Machine Learning Expert | Generative AI Specialist</b>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad2410" alt="ahmad2410" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTQ5NmZiOGZiMjdkMDljYTM3NzM0NDkxZjc2NTAwY2JhNDVmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-- 🔭 I’m currently working on **Ellysium**
+<div align="center">
+  <a href="https://linkedin.com/in/muhammad-ahmad-435b9626b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://medium.com/@ahmad.f2410"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href="https://www.freelancer.pk/u/AhmadXpert2410"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/></a>
+</div>
 
-- 🌱 I’m currently learning **Generative AI and exploring its applications in various fields**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad2410&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, and Generative AI Projects**
+---
 
-- 🤝 I’m looking for help with **Advanced Machine Learning Models, Generative AI Techniques, and Open-Source Contributions**
+### 🔭 About Me
 
-- 📝 I regularly write articles on [https://medium.com/@ahmad.f2410](https://medium.com/@ahmad.f2410)
+I'm a passionate Data Scientist and Machine Learning Expert specializing in Generative AI and LLM optimization. With a strong foundation in AI technologies, I develop innovative solutions to complex problems across various domains.
 
-- 💬 Ask me about **Data Science, Machine Learning, Generative AI, and Open-Source Collaboration**
+- 🚀 Currently working on **Ellysium**
+- 🌱 Exploring advanced applications of **Generative AI** in multiple fields
+- 👯 Open to collaborate on **Data Science, Machine Learning, and Generative AI Projects**
+- 📝 I share my knowledge through articles on [Medium](https://medium.com/@ahmad.f2410)
+- 📫 Reach me at: **ahmad.f2410@gmail.com**
+- 🔗 Freelancer profile: [AhmadXpert2410](https://www.freelancer.pk/u/AhmadXpert2410)
 
-- 📫 How to reach me **ahmad.f2410@gmail.com**
+### 💻 Tech Stack
 
-- ⚡ Fun fact **I’m always experimenting with new AI techniques and love seeing how they can solve real-world problems!**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-ahmad-435b9626b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-ahmad-435b9626b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/15awvahsy5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15awvahsy5/" height="30" width="40" /></a>
-</p>
+### 🛠️ Specializations
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Machine Learning & Deep Learning**
+- **Natural Language Processing**
+- **Computer Vision**
+- **Generative AI Applications**
+- **LLM Development & Fine-tuning**
+- **Data Analysis & Visualization**
+- **Predictive Modeling**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad2410&show_icons=true&locale=en&layout=compact" alt="ahmad2410" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2410&" alt="ahmad2410" /></p>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2410&show_icons=true&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ahmad2410&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2410&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
+</div>
+
+<!-- Note: If GitHub stats are not appearing, create some public repositories with your code! -->
+
+
+### 🔍 Looking for
+
+- Advanced Machine Learning collaborations
+- Generative AI projects
+- Open-source contributions
+- Research opportunities in AI
+
+### ⚡ Fun Fact
+
+I'm constantly experimenting with cutting-edge AI techniques and love seeing how they can solve real-world problems!
+
+---
+
+<div align="center">
+  <em>Let's connect and create something amazing together!</em>
+</div>
