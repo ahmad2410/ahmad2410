@@ -128,7 +128,7 @@ I'm a passionate Data Scientist and Machine Learning Expert with deep expertise 
       <br>Advanced text analysis and language modeling
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/cctv.png" width="65" height="65"/>
+      <img src="https://img.icons8.com/fluency/48/000000/camera.png" width="65" height="65"/>
       <br><strong>Computer Vision</strong>
       <br>Image recognition and visual data analysis
     </td>
