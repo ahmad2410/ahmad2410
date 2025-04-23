@@ -7,9 +7,6 @@
   <a href="https://medium.com/@ahmad.f2410">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.freelancer.pk/u/AhmadXpert2410">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
-  </a>
   <a href="mailto:ahmad.f2410@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -25,16 +22,18 @@
 
 <h2 align="center">Data Scientist | Machine Learning Expert | Generative AI Specialist</h2>
 
-<p align="center">
+<div align="center">
   <a href="#about">About Me</a> •
   <a href="#tech">Tech Stack</a> •
   <a href="#specializations">Specializations</a> •
   <a href="#stats">Stats</a> •
   <a href="#projects">Projects</a> •
   <a href="#contact">Contact</a>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <a name="about"></a>
 ## 🚀 About Me
@@ -45,8 +44,8 @@ class DataScientist:
         self.name = "Muhammad Ahmad"
         self.role = "Data Scientist | ML Expert | Generative AI Specialist"
         self.language_spoken = ["en_US", "ur_PK"]
-        self.current_project = "Ellysium"
         self.exploring = "Advanced applications of Generative AI"
+        self.status = "Available for freelance opportunities"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and create something amazing together!")
@@ -57,12 +56,17 @@ me.say_hi()
 
 I'm a passionate Data Scientist and Machine Learning Expert with deep expertise in Generative AI and LLM optimization. I develop innovative solutions to complex problems across various domains leveraging cutting-edge AI technologies.
 
-- 🔭 Currently working on **Ellysium**
+- 🔭 Currently working on **cutting-edge AI projects**
 - 🌱 Exploring advanced applications of **Generative AI** in multiple fields
 - 👯 Open to collaborate on **Data Science, Machine Learning, and Generative AI Projects**
+- 💼 Available for **freelance opportunities**
 - 📝 I share my knowledge through articles on [Medium](https://medium.com/@ahmad.f2410)
 - 💬 Ask me about **AI, ML, NLP, Computer Vision, and LLMs**
 - 📫 Reach me at: **ahmad.f2410@gmail.com**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <a name="tech"></a>
 ## 💻 Tech Stack
@@ -112,6 +116,10 @@ I'm a passionate Data Scientist and Machine Learning Expert with deep expertise 
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <a name="specializations"></a>
 ## 🧠 Specializations
 
@@ -152,45 +160,76 @@ I'm a passionate Data Scientist and Machine Learning Expert with deep expertise 
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <a name="stats"></a>
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2410&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ahmad2410&show_icons=true&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2410&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <a name="projects"></a>
 ## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ahmad2410?tab=repositories">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Check out my projects">
+  </a>
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Ellysium</h3>
+        <h3 align="center">AI-Powered Analytics Platform</h3>
         <div align="center">
-          <a href="https://github.com/ahmad2410/ellysium" target="_blank">
-            <img src="https://img.icons8.com/color/344/artificial-intelligence.png" width="100" alt="Project 1"/>
-          </a>
-          <p><strong>Advanced Generative AI Platform</strong> - Currently in development</p>
-          <p><em>Details coming soon!</em></p>
+          <img src="https://img.icons8.com/color/344/artificial-intelligence.png" width="100" alt="Project 1"/>
+          <p><strong>Advanced analytics platform using Generative AI</strong></p>
+          <p><em>Combining machine learning and natural language processing to transform how businesses leverage their data</em></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">Neural Vision System</h3>
         <div align="center">
-          <a href="https://github.com/ahmad2410" target="_blank">
-            <img src="https://img.icons8.com/color/344/bot.png" width="100" alt="Project 2"/>
-          </a>
-          <p><strong>Coming Soon</strong></p>
-          <p><em>Stay tuned for updates!</em></p>
+          <img src="https://img.icons8.com/color/344/bot.png" width="100" alt="Project 2"/>
+          <p><strong>Computer vision framework for real-time detection</strong></p>
+          <p><em>Smart image recognition system with adaptive learning capabilities</em></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">LLM Optimization Framework</h3>
+        <div align="center">
+          <img src="https://img.icons8.com/color/344/brain.png" width="100" alt="Project 3"/>
+          <p><strong>Framework for fine-tuning language models</strong></p>
+          <p><em>Specialized techniques for optimizing large language models for specific domains</em></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">AI Research Assistant</h3>
+        <div align="center">
+          <img src="https://img.icons8.com/color/344/microscope.png" width="100" alt="Project 4"/>
+          <p><strong>Intelligent research automation system</strong></p>
+          <p><em>AI-powered tool for literature review, data collection and analysis</em></p>
         </div>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <a name="contact"></a>
@@ -206,9 +245,7 @@ I'm a passionate Data Scientist and Machine Learning Expert with deep expertise 
   <a href="mailto:ahmad.f2410@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.freelancer.pk/u/AhmadXpert2410">
-    <img src="https://img.shields.io/badge/Freelancer-Hire_Me-29B2FE?style=for-the-badge&logo=freelancer"/>
-  </a>
+  <img src="https://img.shields.io/badge/Freelancer-Available-29B2FE?style=for-the-badge"/>
 </div>
 
 <div align="center">
@@ -221,7 +258,9 @@ I'm a passionate Data Scientist and Machine Learning Expert with deep expertise 
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
 
 <div align="center">
   <a href="#top">
